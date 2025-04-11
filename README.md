@@ -1,8 +1,4 @@
-Here's a cleaner version of the `README.md` tailored to your request — without code structure and with instructions for using the **Gemini API key** instead of Ollama:
 
----
-
-```markdown
 # 🤖 EzHunt AI Recruitment Assistant
 
 EzHunt is a multi-agent, AI-powered recruitment assistant built with Streamlit and Gemini, designed to automate resume screening, job-candidate matching, shortlisting, and interview scheduling.
