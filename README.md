@@ -80,7 +80,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Aarchi Kothari** – UI + ML 
+**Aarchi Kothari**  
 
 ---
 
